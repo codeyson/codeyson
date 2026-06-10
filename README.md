@@ -65,11 +65,9 @@
 
 ---
 
-```
-
 ---
-
-
 <p align="center">
   <i>Open to AI/ML engineering roles and collaborations. Let's build something!</i>
 </p>
+--- 
+```
