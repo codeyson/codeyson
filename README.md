@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Codeyson 👋</h1>
 
 <p align="center">
-  AI/ML Engineer · Building intelligent systems with Python, LLMs & RAG pipelines
+  AI/ML Engineer &nbsp;|&nbsp; AI Automation Specialist · Building intelligent systems with Python, LLMs & RAG pipelines
 </p>
 
 <p align="center">
@@ -14,10 +14,13 @@
 
 ## 🧠 About Me
 
-- 🔭 I build AI-powered applications using **LLMs, RAG pipelines, and vector search**
-- 🐍 Python-first developer with a strong focus on **data and machine learning**
-- 🚀 Passionate about **production-ready AI** — from prototype to deployed API
-- 📦 I containerize everything with **Docker** and manage environments with **Conda**
+* 🤖 Building AI-powered applications using **LLMs, RAG pipelines, agents, and workflow automation**
+* 🐍 Python-first developer focused on turning AI capabilities into practical, user-facing products
+* 🚀 Passionate about **AI Engineering** — from prompt orchestration and retrieval systems to production-ready APIs
+* 🔄 Experienced in automating business workflows with **n8n, Make, and AI agents**
+* 🌱 Currently exploring **agentic systems, voice AI, local LLMs, and AI infrastructure**
+* 📦 I enjoy shipping projects end-to-end using **FastAPI, Docker, vector databases, and modern AI tooling**
+* 🎯 My goal is to build intelligent systems that solve real-world problems and improve how people work
 
 ---
 
@@ -47,6 +50,13 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
+### 🔄 Automation & Workflows
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
+
 ### ⚙️ DevOps & Environment
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -55,26 +65,11 @@
 
 ---
 
-## 📌 Pinned Focus Areas
-
-```
-🔗 RAG (Retrieval-Augmented Generation)   — grounding LLMs with real data
-📡 Vector Search                          — semantic retrieval with Pinecone
-🧩 LLM Orchestration                     — chaining models with LangChain
-🐳 Containerized ML APIs                 — FastAPI + Docker deployments
 ```
 
 ---
 
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codeyson&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeyson&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to AI/ML engineering roles and collaborations. Let's build something smart.</i>
+  <i>Open to AI/ML engineering roles and collaborations. Let's build something!</i>
 </p>
