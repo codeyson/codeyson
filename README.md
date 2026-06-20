@@ -1,7 +1,4 @@
-<h1 align="center">Hey, I'm Fred 👋</h1>
-<p align="center">
-  AI/ML Engineer &nbsp;|&nbsp; AI Automation Specialist · Building intelligent systems with Python, LLMs & RAG pipelines
-</p>
+![Header](./github-header-banner.png)
 <p align="center">
   <a href="https://github.com/Codeyson">
     <img src="https://komarev.com/ghpvc/?username=Codeyson&color=blue&style=flat-square&label=Profile+Views" alt="profile views" />
