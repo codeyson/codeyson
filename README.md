@@ -45,6 +45,7 @@
 ### 🗄️ Vector & Storage
 <p>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
 </p>
 
 ### 🌐 Backend & APIs
@@ -55,8 +56,6 @@
 ### 🔄 Automation & Workflows
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & Environment
