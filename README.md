@@ -19,47 +19,58 @@
 
 ---
 
+Sure — if you want the icons to stay **aligned to the left** without the default paragraph spacing/centering behavior, use `div` instead of `<p>`.
+
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
-<p>
+
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
+</div>
 
 ### 📊 Data
-<p>
+
+<div align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-</p>
+</div>
 
 ### 🗄️ Vector & Storage
-<p>
+
+<div align="left">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
-</p>
+</div>
 
 ### 🌐 Backend & APIs
-<p>
+
+<div align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+</div>
 
 ### 🔄 Automation & Workflows
-<p>
+
+<div align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+</div>
 
 ### ⚙️ DevOps & Environment
-<p>
+
+<div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-</p>
+</div>
+
+This will keep each group **left-aligned**. If you're using this in a GitHub README, this is the cleaner approach.
+
 
 ---
 <p align="center">
