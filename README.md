@@ -32,46 +32,32 @@ Sure — if you want the icons to stay **aligned to the left** without the defau
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</div>
 
-### 📊 Data
 
-<div align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-</div>
 
-### 🗄️ Vector & Storage
 
-<div align="left">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
-</div>
 
-### 🌐 Backend & APIs
 
-<div align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</div>
 
-### 🔄 Automation & Workflows
 
-<div align="left">
+
+
+
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</div>
 
-### ⚙️ DevOps & Environment
 
-<div align="left">
+
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 </div>
-
-This will keep each group **left-aligned**. If you're using this in a GitHub README, this is the cleaner approach.
-
-
 ---
 <p align="center">
   <i>Open to AI/ML engineering roles and collaborations. Let's build something!</i>
