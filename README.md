@@ -19,8 +19,6 @@
 
 ---
 
-Sure — if you want the icons to stay **aligned to the left** without the default paragraph spacing/centering behavior, use `div` instead of `<p>`.
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
@@ -58,7 +56,9 @@ Sure — if you want the icons to stay **aligned to the left** without the defau
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 </div>
+
 ---
+
 <p align="center">
   <i>Open to AI/ML engineering roles and collaborations. Let's build something!</i>
 </p>
